@@ -1,0 +1,14 @@
+{
+  "name": "11ty-fx-profiler",
+  "version": "1.0.0",
+  "description": "Visualize how Eleventy spends its time using markers in the Firefox Profiler.",
+  "type": "module",
+  "main": "profiler.js",
+  "homepage": "https://github.com/fqueze/11ty-fx-profiler/",
+  "repository": "github:fqueze/11ty-fx-profiler",
+  "author": "Florian Quèze",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "open": "^10.1.0"
+  }
+}
